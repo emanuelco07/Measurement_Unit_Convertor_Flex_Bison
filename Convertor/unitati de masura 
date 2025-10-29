@@ -1,0 +1,28 @@
+Lungime:
+kilometri - mile / mile - kilometri
+metri - picioare / picioare - metri
+centimetri - inchi / inchi - centimetri
+
+Masa:
+kilograme - pounds / pounds - kilograme
+grame - uncii(oz) / unicii(oz) - grame
+
+Timp:
+secunde - minute / minute - secunde
+
+Temperatura:
+celsius - fahrenheit / fahrenheit -- celsius
+celsius - kelvin / kelvin - celsius
+fahrenheit - kelvin / kelvin - fahrenheit
+
+Volum:
+litri - galoane / galoane - litri
+
+Suprafata:
+metri_patrati - acri / acri - metri_patrati
+
+Energie:
+calori - kilocalori / kilocalori - calori
+
+Presiune:
+bari - atmosfere / atmosfere - bari
