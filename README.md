@@ -26,3 +26,7 @@ The application functions as a domain-specific language processor. It scans inpu
 1. Ensure you have Flex and Bison installed on your system.
 2. Compile the project using the Makefile: `make`
 3. Run the converter: `./unit_converter < input.txt`
+4. 
+---
+
+**For more information, please refer to the Romanian [documentation](https://github.com/emanuelco07/Measurement_Unit_Convertor_Flex_Bison/blob/main/Cosereanu_Emanuel_Convertor.pdf).**
